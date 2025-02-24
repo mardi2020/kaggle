@@ -20,3 +20,5 @@
         ▼
 [ 최종 결과: disaster(1) 또는 no(0) ]
 ```
+
+https://www.kaggle.com/competitions/nlp-getting-started/overview
